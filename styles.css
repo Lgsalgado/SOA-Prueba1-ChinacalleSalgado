@@ -1,0 +1,46 @@
+﻿body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    margin: 0;
+    background-image: url(https://bolavip.com/__export/1599752381940/sites/bolavip/img/2020/09/10/pokemongo_megaevo_crop1599752381407.jpg_423682103.jpg);
+    background-size: cover;
+}
+
+.tittle {
+    text-align: center;
+    padding: 16px;
+}
+
+.pokemon-list {
+    display: grid;
+    grid-template-columns: 1fr 100px 1fr;
+    max-width: 800px;
+    margin: auto;
+}
+
+.pokemon {
+    border: 1px solid black;
+    padding: 10px;
+    background: rgb(238, 219, 238, 0.6);
+    text-align: center;
+    border-radius: 60px;
+}
+
+.vs {
+    text-align: center;
+    margin: auto;
+    font-size: 32px;
+}
+
+.img {
+    width: 100%;
+}
+
+.card-text {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+
+.names {
+    font-size: 25px;
+}
