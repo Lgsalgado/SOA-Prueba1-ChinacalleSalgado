@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cartelera> 
+<pelicula>
+  <codigo>153171</codigo>
+  <titulo>Titanic</titulo>
+  <ano>1997</ano>
+  <duracion>
+      <horas>3</horas>
+      <minutos>25</minutos>
+      <segundos>10</segundos>
+  </duracion>
+  <nacionalidad>USA</nacionalidad>
+  <genero>Drama</genero>
+  <clasificacion>Todo público</clasificacion>
+  <director>
+      <nombre>James</nombre>
+      <apellido>Cameron</apellido>
+      <fecha_nacimiento>
+          <ano>1954</ano>
+          <mes>agosto</mes>
+          <dia>16</dia>
+      </fecha_nacimiento>
+  </director>
+  <reparto>
+      <actores_principales>
+          <nombres_originales>Leonardo DiCaprio</nombres_originales>
+          <nombre_pelicula>Jack Dawson</nombre_pelicula>
+          <nombres_originales>Kate Winsleth</nombres_originales>
+          <nombre_pelicula>Rose DeWitt Butaker</nombre_pelicula>
+      </actores_principales>
+      <actores_secundarios>
+           <nombres_originales>Bernard Hill</nombres_originales>
+          <nombre_pelicula>Cap. Edward J. Smith</nombre_pelicula>
+      </actores_secundarios>
+      <dobles>
+           <nombres_originales>Paul Heasman</nombres_originales>
+          <sustituye>Jack </sustituye>
+      </dobles>
+  </reparto>
+  <sinopsis>Jack (DiCaprio), un joven artista, gana en una partida de cartas un pasaje para viajar a América en el Titanic, el transatlántico más grande y seguro jamás construido. A bordo conoce a Rose (Kate Winslet), una joven de una buena familia venida a menos que va a contraer un matrimonio de conveniencia con Cal (Billy Zane), un millonario engreído a quien sólo interesa el prestigioso apellido de su prometida. Jack y Rose se enamoran, pero el prometido y la madre de ella ponen todo tipo de trabas a su relación.</sinopsis>
+</pelicula>
+</cartelera>
+
+
+
